@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Aman Pandagre</h1>
-<h3 align="center">A passionate full stack web developer</h3>
+<h3 align="center">A full stack web developer</h3>
 
 - 🌱 I’m currently learning **MERN STACK**
 
