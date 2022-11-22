@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aman Pandagre</h1>
 <h3 align="center">I am a tech enthusiast, a full-stack web developer, and a Java programmer.</h3>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 Currently I am learning **Data Structure and Algorithms**
 
 - 📫 How to reach me **amanpandagre21@gmail.com**
 
